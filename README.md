@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kindallsmithdata
-- 👀 I’m interested in ... Software Engineering, Web Development and Data Science
+- 👀 I’m interested in ... Software Engineering, Data Analytics, Web Development and Data Science
 - 🌱 I’m currently learning ... Python, HTML, CSS, XML and JavaScript. 
-- 💞️ I’m looking to collaborate on ... all things Software Engineering! 
+- 💞️ I’m looking to collaborate on ... all things Software Engineering and Data Analytics!
 - 📫 How to reach me ... kindallsmith.data@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I have a Masters Degree in Saxophone Performance! 
