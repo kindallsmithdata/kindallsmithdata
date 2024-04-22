@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kindallsmithdata
-- 👀 I’m interested in ... Software Engineering, Data Analytics, Web Development
-- 🌱 I’m currently learning ... Python, HTML, CSS, XML and JavaScript. 
+- 👀 I’m interested in ... Software Engineering, Web Development, Front-End Engineering
+- 🌱 I’m currently learning ... HTML, CSS, XML, JavaScript and TypeScript
 - 💞️ I’m looking to collaborate on ... all things Software Engineering and Data Analytics!
 - 📫 How to reach me ... kindallsmith.data@gmail.com
 - 😄 Pronouns: ... she/her
