@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kindallsmithdata
-- 👀 I’m interested in ... Instructional Design, Software Engineering, Web Development
-- 🌱 I’m currently learning ... HTML, CSS, XML, JavaScript and TypeScript
+- 👀 I’m interested in ... Instructional Design, Software Engineering, Web Development, UI/UX Design
+- 🌱 I’m currently learning ... HTML, CSS, XML and Python
 - 💞️ I’m looking to collaborate on ... all things Education, Instructional Design, Software Engineering and Data Analytics!
 - 📫 How to reach me ... kindallsmith.data@gmail.com
 - 😄 Pronouns: ... she/her
