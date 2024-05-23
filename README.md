@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kindallsmithdata
-- 👀 I’m interested in ... Educational Research - Psychology - Assessment, Instructional Design, Software Engineering, UI/UX Design
 - 🌱 I’m currently learning ... HTML, CSS, XML and Python
-- 💞️ I’m looking to collaborate on ... all things Education, Instructional Design, Software Engineering, UI/UX Design and Data Analytics!
 - 📫 How to reach me ... kindallsmith.data@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I have a Masters Degree in Saxophone Performance! 
